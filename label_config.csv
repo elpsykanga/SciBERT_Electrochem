@@ -1,0 +1,23 @@
+material,method,product,Faradaicefficiency
+Cu,defect,CO,Faradaic efficiency
+Cu/C,alloy,HCOOH,Faradic efficiency
+CuOx,structure control,HCHO,2nd product Faradaic efficiency
+CuSx,interface modification,CH4,3rd product Faradaic efficiency
+CuNx,atomic level dispersion,CH3OH,1st product Faradaic efficiency
+Cu-M,composite,C2H4,
+CuMOx,surface modification,C2H5OH,
+Cu-MOF,surface/interface modification,acetone,
+Cu(Ox)-M(OH)x,,C2+,
+Cu-molecular complex,,propanol,
+Cu-LDH,,syngas,
+CuMSx,,C2H6,
+CuPx,,propanal,
+M+CuOx,,CH3COOH,
+Cu-MXene,,CH3CHO,
+Cu-MOx,,Syngas,
+Cu molecular complex,,1st product,
+CuI,,2nd product,
+CuSex,,3rd product,
+CuOx-MOx,,,
+Cu-MSx,,,
+Cu(Ox)-MOx,,,
