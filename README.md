@@ -1,2 +1,2 @@
 # SciBERT_Electrochem
-A BERT model fine-tuned on electrochemistry papers
+A BERT NER model fine-tuned on electrochemistry research papers. The different headers created will be added at a later data.
